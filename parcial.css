@@ -1,0 +1,156 @@
+.card{
+    font-family: 'IBM Plex Sans', sans-serif;
+    border-radius: 10px;
+    display: flex;
+    background-color:white;
+}
+
+.title{
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 50px;
+}
+
+.img-1{
+    width: 600px;
+    border-radius: 10px;
+}
+
+.texto-card{
+    font-weight:15px;
+    padding-left: 20px;
+    display: grid;
+}
+
+.texto-nombre{
+    margin-top: -20px;
+    color: darkgray;
+    font-size: 19px;
+}
+
+.diagonal-boton{
+    cursor:pointer;
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: bolder;
+    padding: 15px;
+    border-radius: 5px;
+    background-color:#f76540;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 0;
+
+}
+
+.distancia-boton{
+    cursor:pointer;
+    font-size: 18px;
+    margin-left: 30px;
+    font-weight: bolder;
+    padding: 15px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 5px;
+    background-color: rgb(212, 211, 211);
+    border: 0;
+}
+
+.botones-main{
+    float: left;
+    display: flex;
+}
+
+/*Aquí es la hoja de estilos de los modales*/
+.diagonal-pantalla{
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin-top: 50px;
+}
+
+.nav-diagonal{
+    display: flex;
+}
+
+.img-diagonal{
+    border-radius: 10px;
+    width: 70px;
+    height: 50px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+.info-diagonal{
+    margin-top: -15px;
+    color: rgb(109, 108, 108);
+    font-size: 15px;
+}
+
+.content-diagonal{
+    text-align: center;
+}
+
+/* .input-diagonal{
+    width: 600px;
+    height: 200px;
+} */
+
+.diagonal-boton-calcular{
+    cursor:pointer;
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: bolder;
+    padding: 15px;
+    border-radius: 5px;
+    background-color:#f76540;
+    margin-left: 600px;
+    margin-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 0;
+}
+
+/*Aquí Es la hoja de distancia*/
+
+.distancia-pantalla{
+    font-family: 'IBM Plex Sans', sans-serif;
+    margin-top: 50px;
+}
+
+.nav-distancia{
+    display: flex;
+}
+
+.img-distancia{
+    border-radius: 10px;
+    width: 70px;
+    height: 50px;
+    margin-right: 15px;
+    margin-top: 20px;
+}
+
+.info-distancia{
+    margin-top: -15px;
+    color: rgb(109, 108, 108);
+    font-size: 15px;
+}
+
+.content-distancia{
+    text-align: center;
+}
+
+.distancia-boton-calcular{
+    cursor:pointer;
+    font-size: 18px;
+    color: aliceblue;
+    font-weight: bolder;
+    padding: 15px;
+    border-radius: 5px;
+    background-color:#f76540;
+    margin-left: 600px;
+    margin-top: 20px;
+    padding-left: 25px;
+    padding-right: 25px;
+    border: 0;
+}
+
+.content2-distancia{
+    margin-left: 10px;
+}
